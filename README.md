@@ -7,7 +7,7 @@ Items include:
  - Matrix Green
  - Novel
  - Red Preset *(Transparent not grayscale)*
- - A **.bash_profile** script for custom prompt
+ - A **.bash_profile** script for custom prompt *(insert into pre-exisiting file, do not delete current items)*
 
 
 Photos in order of list *(Excluding the first image that showcases the custom command promt features)*:
