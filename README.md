@@ -1,4 +1,5 @@
-# terminal-prefernces ## A set of customised prefernces and themes for Mac's terminal.
+# terminal-prefernces
+A set of customised prefernces and themes for Mac's terminal.
 
 Items include:
  - Default Monaco *(see photos)*
