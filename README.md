@@ -10,4 +10,5 @@ Items include:
  - Red Preset
  - A **.bash_profile** script for custom prompt
 
-![A single prompt](screen-shots.Monaco\ 0.png)
+![A single prompt showing custom command prompt](screen-shots.Monaco0.png)
+![Multiple lines, can see the git indicator](screen-shots.Monaco1.png)
