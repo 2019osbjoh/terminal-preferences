@@ -3,7 +3,7 @@
 A set of customised prefernces and themes for Mac's terminal.
 
 Items include:
- - Default Monaco
+ - Default Monaco (see photos)
  - Grass
  - Matrix Green
  - Novel
