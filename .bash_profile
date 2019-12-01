@@ -31,7 +31,7 @@ export PATH="$HOME/.cargo/bin:$PATH"
 export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
 # Finished adapting your PATH environment variable for use with MacPorts.
 
-alias dev="cd ~/Documents/DEV/"
+#alias dev="cd ~/Documents/DEV/"
 alias c="clear"
 alias h="cd ~/"
 
